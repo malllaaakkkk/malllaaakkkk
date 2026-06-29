@@ -1,0 +1,91 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Malak Mahmoud Sobhy pink cyber profile banner</title>
+  <desc id="desc">A soft pink profile banner for a Network and Cybersecurity student.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff1f7"/>
+      <stop offset="0.42" stop-color="#ffd6ea"/>
+      <stop offset="0.75" stop-color="#f6ccff"/>
+      <stop offset="1" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="250" y1="70" x2="940" y2="270" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff4fa3"/>
+      <stop offset="0.55" stop-color="#db2777"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#ffe4f1" stop-opacity="0.88"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#db2777" flood-opacity="0.16"/>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
+  <circle cx="105" cy="84" r="64" fill="#ff8ec7" opacity="0.26">
+    <animate attributeName="cy" values="84;66;84" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1035" cy="92" r="86" fill="#c084fc" opacity="0.22">
+    <animate attributeName="cy" values="92;114;92" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1062" cy="276" r="54" fill="#60a5fa" opacity="0.18">
+    <animate attributeName="cx" values="1062;1030;1062" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="175" cy="286" r="42" fill="#f472b6" opacity="0.22">
+    <animate attributeName="cx" values="175;205;175" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <path d="M64 244 C230 205, 314 274, 462 230 C650 174, 802 250, 1138 190" stroke="#ffffff" stroke-width="3" opacity="0.58"/>
+  <path d="M72 260 C236 226, 332 292, 486 252 C676 204, 810 275, 1130 222" stroke="#ff69b4" stroke-width="2" opacity="0.28"/>
+
+  <g opacity="0.72" filter="url(#softGlow)">
+    <path d="M164 116 L174 139 L198 148 L174 157 L164 181 L154 157 L130 148 L154 139 Z" fill="#ffffff">
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1018 158 L1026 177 L1046 185 L1026 193 L1018 214 L1010 193 L990 185 L1010 177 Z" fill="#ffffff">
+      <animate attributeName="opacity" values="1;0.45;1" dur="2.9s" repeatCount="indefinite"/>
+    </path>
+    <path d="M939 61 L945 76 L961 82 L945 88 L939 104 L933 88 L917 82 L933 76 Z" fill="#ffffff">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="190" y="68" width="820" height="224" rx="38" fill="#ffffff" opacity="0.64"/>
+    <rect x="212" y="90" width="776" height="180" rx="30" fill="#fff7fb" opacity="0.86"/>
+  </g>
+
+  <text x="600" y="151" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" fill="url(#pink)">Malak Mahmoud Sobhy</text>
+  <text x="600" y="193" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#831843">Network &amp; Cybersecurity Student</text>
+  <text x="600" y="229" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#a21caf">GRC basics | SOC basics | IoT/OT security | Quantum curiosity</text>
+
+  <g transform="translate(399 248)">
+    <rect x="0" y="0" width="128" height="38" rx="19" fill="url(#chip)"/>
+    <text x="64" y="25" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#be185d">fresh cyber</text>
+  </g>
+  <g transform="translate(538 248)">
+    <rect x="0" y="0" width="124" height="38" rx="19" fill="url(#chip)"/>
+    <text x="62" y="25" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#7c3aed">soft pink</text>
+  </g>
+  <g transform="translate(674 248)">
+    <rect x="0" y="0" width="130" height="38" rx="19" fill="url(#chip)"/>
+    <text x="65" y="25" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#be185d">learning mode</text>
+  </g>
+
+  <g opacity="0.9">
+    <path d="M87 189 C70 171, 96 145, 113 167 C130 145, 156 171, 139 189 L113 216 Z" fill="#ff69b4" opacity="0.28">
+      <animateTransform attributeName="transform" type="rotate" values="-6 113 180;6 113 180;-6 113 180" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1080 222 C1063 204, 1089 178, 1106 200 C1123 178, 1149 204, 1132 222 L1106 249 Z" fill="#a855f7" opacity="0.22">
+      <animateTransform attributeName="transform" type="rotate" values="5 1106 213;-5 1106 213;5 1106 213" dur="4.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

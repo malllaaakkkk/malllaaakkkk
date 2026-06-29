@@ -1,28 +1,32 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecf,45:ff5fa2,100:8b5cf6&height=210&section=header&text=Malak%20Mahmoud%20Sobhy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Network%20%26%20Cybersecurity%20Student&descAlignY=55&descSize=18)
+<img src="./assets/malak-pink-banner.svg" width="100%" alt="Malak Mahmoud Sobhy - Network and Cybersecurity Student" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=780&lines=Learning+Network+Defense+and+Cybersecurity;Interested+in+GRC%2C+SOC+Basics+and+IoT%2FOT+Security;Curious+about+Quantum%2C+Math+and+Physics)
+<br />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=malllaaakkkk&style=for-the-badge&color=ff69b4)](https://github.com/malllaaakkkk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Sobhy-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-sobhy-98a206337/)
-[![Email](https://img.shields.io/badge/Email-mahmoodmalak502%40gmail.com-ff85c8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoodmalak502@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=FF4FA3&center=true&vCenter=true&width=820&lines=Network+%26+Cybersecurity+Student;Learning+GRC+%7C+SOC+Basics+%7C+IoT%2FOT+Security;Quantum+%7C+Math+%7C+Physics+Curiosity;Fresh+Pink+Cyber+Space" alt="Typing SVG" />
+
+<br />
+
+<a href="https://github.com/malllaaakkkk"><img src="https://komarev.com/ghpvc/?username=malllaaakkkk&style=for-the-badge&color=ff69b4" alt="Profile views" /></a>
+<a href="https://www.linkedin.com/in/malak-sobhy-98a206337/"><img src="https://img.shields.io/badge/LinkedIn-Malak%20Sobhy-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mahmoodmalak502@gmail.com"><img src="https://img.shields.io/badge/Email-mahmoodmalak502%40gmail.com-ff85c8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
 
-## About Me
+## Soft Intro
 
-I am a Network and Cybersecurity student at ElSewedy University of Technology. I am still learning and building my path step by step, with interest in cybersecurity, networks, GRC, SOC basics, and IoT/OT security.
+I am a Network and Cybersecurity student at ElSewedy University of Technology. I am learning step by step and building my path around cybersecurity, networks, GRC, SOC basics, and IoT/OT security.
 
-I also enjoy exploring ideas related to quantum computing, mathematics, and physics, especially when they connect with technology and real-world systems.
+I also enjoy exploring quantum computing, mathematics, and physics, especially when they connect with technology and real-world systems.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Currently Learning
+### Learning Mood
 
 - Network defense fundamentals
 - Linux basics and security tools
@@ -31,9 +35,9 @@ I also enjoy exploring ideas related to quantum computing, mathematics, and phys
 - Secure coding principles
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Areas I Like
+### Curious About
 
 - Cybersecurity and networks
 - IoT/OT security
@@ -45,7 +49,15 @@ I also enjoy exploring ideas related to quantum computing, mathematics, and phys
 </tr>
 </table>
 
----
+<div align="center">
+
+<img src="https://img.shields.io/badge/Current%20vibe-learning%20softly-ff69b4?style=for-the-badge" alt="Current vibe" />
+<img src="https://img.shields.io/badge/Profile%20theme-pink%20cyber-ff85c8?style=for-the-badge" alt="Pink cyber theme" />
+<img src="https://img.shields.io/badge/Focus-cyber%20basics-db2777?style=for-the-badge" alt="Focus" />
+
+</div>
+
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
 
 ## Experience
 
@@ -57,7 +69,7 @@ I also enjoy exploring ideas related to quantum computing, mathematics, and phys
 - Joined GRC sessions related to risk management, compliance, and security policies.
 - Took part in discussions about security awareness and risk assessment.
 
----
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
 
 ## Projects
 
@@ -72,41 +84,45 @@ Student project team lead for an IoT-based waste management idea focused on coll
 - Supporting security, sustainability, and scalability considerations
 - Coordinating with team members
 
----
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
 
 ## Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ff85c8?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-f472b6?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-db2777?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-be185d?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-831843?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ff85c8?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/SQL-f472b6?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Linux-db2777?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-be185d?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-831843?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-![Network Security](https://img.shields.io/badge/Network%20Security-ff69b4?style=for-the-badge)
-![GRC Basics](https://img.shields.io/badge/GRC%20Basics-ff85c8?style=for-the-badge)
-![SOC Basics](https://img.shields.io/badge/SOC%20Basics-f472b6?style=for-the-badge)
-![IoT OT Security](https://img.shields.io/badge/IoT%2FOT%20Security-db2777?style=for-the-badge)
-![Quantum](https://img.shields.io/badge/Quantum%20Computing-be185d?style=for-the-badge)
+<br />
+
+<img src="https://img.shields.io/badge/Network%20Security-ff69b4?style=for-the-badge" alt="Network Security" />
+<img src="https://img.shields.io/badge/GRC%20Basics-ff85c8?style=for-the-badge" alt="GRC Basics" />
+<img src="https://img.shields.io/badge/SOC%20Basics-f472b6?style=for-the-badge" alt="SOC Basics" />
+<img src="https://img.shields.io/badge/IoT%2FOT%20Security-db2777?style=for-the-badge" alt="IoT OT Security" />
+<img src="https://img.shields.io/badge/Quantum%20Computing-be185d?style=for-the-badge" alt="Quantum Computing" />
 
 </div>
 
----
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
 
 ## GitHub Activity
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=malllaaakkkk&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff85c8&text_color=ffffff&bg_color=0d1117" />
-<img width="48%" src="https://streak-stats.demolab.com?user=malllaaakkkk&hide_border=true&background=0D1117&ring=FF69B4&fire=FF85C8&currStreakLabel=FF69B4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFB6D9&sideLabels=FFB6D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=malllaaakkkk&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff85c8&text_color=ffffff&bg_color=0d1117" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=malllaaakkkk&hide_border=true&background=0D1117&ring=FF69B4&fire=FF85C8&currStreakLabel=FF69B4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFB6D9&sideLabels=FFB6D9" alt="GitHub streak" />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=malllaaakkkk&bg_color=0d1117&color=ffb6d9&line=ff69b4&point=ffffff&area=true&hide_border=true" />
+<br />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=malllaaakkkk&bg_color=0d1117&color=ffb6d9&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
----
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
 
 ## Activities
 
@@ -114,15 +130,18 @@ Student project team lead for an IoT-based waste management idea focused on coll
 - Vice Head, Community Service Committee - Student Union
 - Head of HR Committee - IEEE Student Branch at SUTech
 
----
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
 
 <div align="center">
 
 ### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Sobhy-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-sobhy-98a206337/)
-[![Email](https://img.shields.io/badge/Email-mahmoodmalak502%40gmail.com-ff85c8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoodmalak502@gmail.com)
+<a href="https://www.linkedin.com/in/malak-sobhy-98a206337/"><img src="https://img.shields.io/badge/LinkedIn-Malak%20Sobhy-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mahmoodmalak502@gmail.com"><img src="https://img.shields.io/badge/Email-mahmoodmalak502%40gmail.com-ff85c8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,45:ff5fa2,100:ff9ecf&height=120&section=footer)
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6ea,45:ff69b4,100:c084fc&height=120&section=footer" width="100%" alt="Pink footer" />
 
 </div>
