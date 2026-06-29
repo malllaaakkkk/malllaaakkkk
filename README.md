@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=FF4FA3&center=true&vCenter=true&width=820&lines=Network+%26+Cybersecurity+Student;Learning+GRC+%7C+SOC+Basics+%7C+IoT%2FOT+Security;Quantum+%7C+Math+%7C+Physics+Curiosity;Fresh+Pink+Cyber+Space" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=FF4FA3&center=true&vCenter=true&width=860&lines=Network+%26+Cybersecurity+Student;Cybersecurity+%7C+GRC+%7C+SOC+Basics;IoT%2FOT+Security+%7C+Industrial+Networks;Quantum+%7C+Math+%7C+Physics+Curiosity" alt="Typing SVG" />
 
 <br />
 
@@ -14,19 +14,19 @@
 
 </div>
 
-<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
-## Soft Intro
+## Intro
 
-I am a Network and Cybersecurity student at ElSewedy University of Technology. I am learning step by step and building my path around cybersecurity, networks, GRC, SOC basics, and IoT/OT security.
+I am a Network and Cybersecurity student at ElSewedy University of Technology. I am building my skills step by step in cybersecurity, networks, GRC, SOC basics, and IoT/OT security.
 
-I also enjoy exploring quantum computing, mathematics, and physics, especially when they connect with technology and real-world systems.
+I like learning how real systems work, how they can break, and how security helps protect them. I am also curious about quantum computing, mathematics, and physics, especially when science meets technology.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Learning Mood
+### Learning Now
 
 - Network defense fundamentals
 - Linux basics and security tools
@@ -37,7 +37,7 @@ I also enjoy exploring quantum computing, mathematics, and physics, especially w
 </td>
 <td width="50%" valign="top">
 
-### Curious About
+### Favorite Areas
 
 - Cybersecurity and networks
 - IoT/OT security
@@ -51,13 +51,14 @@ I also enjoy exploring quantum computing, mathematics, and physics, especially w
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Current%20vibe-learning%20softly-ff69b4?style=for-the-badge" alt="Current vibe" />
-<img src="https://img.shields.io/badge/Profile%20theme-pink%20cyber-ff85c8?style=for-the-badge" alt="Pink cyber theme" />
-<img src="https://img.shields.io/badge/Focus-cyber%20basics-db2777?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Cybersecurity-ff69b4?style=for-the-badge" alt="Cybersecurity" />
+<img src="https://img.shields.io/badge/Quantum-f472b6?style=for-the-badge" alt="Quantum" />
+<img src="https://img.shields.io/badge/Math-db2777?style=for-the-badge" alt="Math" />
+<img src="https://img.shields.io/badge/Physics-be185d?style=for-the-badge" alt="Physics" />
 
 </div>
 
-<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
 ## Experience
 
@@ -69,7 +70,7 @@ I also enjoy exploring quantum computing, mathematics, and physics, especially w
 - Joined GRC sessions related to risk management, compliance, and security policies.
 - Took part in discussions about security awareness and risk assessment.
 
-<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
 ## Projects
 
@@ -84,7 +85,7 @@ Student project team lead for an IoT-based waste management idea focused on coll
 - Supporting security, sustainability, and scalability considerations
 - Coordinating with team members
 
-<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
 ## Tech Stack
 
@@ -107,7 +108,7 @@ Student project team lead for an IoT-based waste management idea focused on coll
 
 </div>
 
-<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
 ## GitHub Activity
 
@@ -122,7 +123,7 @@ Student project team lead for an IoT-based waste management idea focused on coll
 
 </div>
 
-<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
 ## Activities
 
@@ -130,7 +131,7 @@ Student project team lead for an IoT-based waste management idea focused on coll
 - Vice Head, Community Service Committee - Student Union
 - Head of HR Committee - IEEE Student Branch at SUTech
 
-<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink divider" />
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
 <div align="center">
 

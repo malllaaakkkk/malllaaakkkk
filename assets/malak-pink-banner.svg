@@ -1,91 +1,115 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Malak Mahmoud Sobhy pink cyber profile banner</title>
-  <desc id="desc">A soft pink profile banner for a Network and Cybersecurity student.</desc>
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Malak Mahmoud Sobhy pink science and cybersecurity banner</title>
+  <desc id="desc">A pink cyber, quantum, math, and physics GitHub profile banner.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#fff1f7"/>
-      <stop offset="0.42" stop-color="#ffd6ea"/>
-      <stop offset="0.75" stop-color="#f6ccff"/>
-      <stop offset="1" stop-color="#dbeafe"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff5fb"/>
+      <stop offset="0.34" stop-color="#ffd6ec"/>
+      <stop offset="0.7" stop-color="#f5d0fe"/>
+      <stop offset="1" stop-color="#e0e7ff"/>
     </linearGradient>
-    <linearGradient id="pink" x1="250" y1="70" x2="940" y2="270" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#ff4fa3"/>
-      <stop offset="0.55" stop-color="#db2777"/>
-      <stop offset="1" stop-color="#7c3aed"/>
+    <linearGradient id="titleGrad" x1="300" y1="90" x2="900" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff5faf"/>
+      <stop offset="0.48" stop-color="#db2777"/>
+      <stop offset="1" stop-color="#9333ea"/>
     </linearGradient>
-    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0.92"/>
-      <stop offset="1" stop-color="#ffe4f1" stop-opacity="0.88"/>
+    <linearGradient id="panel" x1="250" y1="70" x2="950" y2="290" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.86"/>
+      <stop offset="1" stop-color="#ffe4f3" stop-opacity="0.72"/>
     </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#db2777" flood-opacity="0.16"/>
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#db2777" flood-opacity="0.15"/>
     </filter>
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="12" result="blur"/>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+    <style>
+      .label { font-family: Segoe UI, Arial, sans-serif; }
+      .science { font-family: Cambria Math, Georgia, serif; }
+    </style>
   </defs>
 
-  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
-  <circle cx="105" cy="84" r="64" fill="#ff8ec7" opacity="0.26">
-    <animate attributeName="cy" values="84;66;84" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1035" cy="92" r="86" fill="#c084fc" opacity="0.22">
-    <animate attributeName="cy" values="92;114;92" dur="6s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1062" cy="276" r="54" fill="#60a5fa" opacity="0.18">
-    <animate attributeName="cx" values="1062;1030;1062" dur="7s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="175" cy="286" r="42" fill="#f472b6" opacity="0.22">
-    <animate attributeName="cx" values="175;205;175" dur="6s" repeatCount="indefinite"/>
-  </circle>
+  <rect width="1200" height="380" rx="34" fill="url(#bg)"/>
 
-  <path d="M64 244 C230 205, 314 274, 462 230 C650 174, 802 250, 1138 190" stroke="#ffffff" stroke-width="3" opacity="0.58"/>
-  <path d="M72 260 C236 226, 332 292, 486 252 C676 204, 810 275, 1130 222" stroke="#ff69b4" stroke-width="2" opacity="0.28"/>
+  <g opacity="0.28">
+    <path d="M0 95 H1200 M0 190 H1200 M0 285 H1200" stroke="#ffffff" stroke-width="2"/>
+    <path d="M120 0 V380 M300 0 V380 M480 0 V380 M660 0 V380 M840 0 V380 M1020 0 V380" stroke="#ffffff" stroke-width="2"/>
+  </g>
 
-  <g opacity="0.72" filter="url(#softGlow)">
-    <path d="M164 116 L174 139 L198 148 L174 157 L164 181 L154 157 L130 148 L154 139 Z" fill="#ffffff">
-      <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
-    </path>
-    <path d="M1018 158 L1026 177 L1046 185 L1026 193 L1018 214 L1010 193 L990 185 L1010 177 Z" fill="#ffffff">
-      <animate attributeName="opacity" values="1;0.45;1" dur="2.9s" repeatCount="indefinite"/>
-    </path>
-    <path d="M939 61 L945 76 L961 82 L945 88 L939 104 L933 88 L917 82 L933 76 Z" fill="#ffffff">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.2s" repeatCount="indefinite"/>
-    </path>
+  <g opacity="0.46" stroke="#ff69b4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M86 82 H176 V128 H244"/>
+    <path d="M92 272 H196 V230 H278"/>
+    <path d="M928 82 H1036 V126 H1118"/>
+    <path d="M902 292 H1022 V245 H1120"/>
+    <circle cx="86" cy="82" r="8" fill="#ff69b4">
+      <animate attributeName="r" values="6;10;6" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="244" cy="128" r="8" fill="#f9a8d4">
+      <animate attributeName="r" values="8;12;8" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1118" cy="126" r="8" fill="#c084fc">
+      <animate attributeName="r" values="7;11;7" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="902" cy="292" r="8" fill="#ff69b4">
+      <animate attributeName="r" values="6;10;6" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
   <g filter="url(#shadow)">
-    <rect x="190" y="68" width="820" height="224" rx="38" fill="#ffffff" opacity="0.64"/>
-    <rect x="212" y="90" width="776" height="180" rx="30" fill="#fff7fb" opacity="0.86"/>
+    <rect x="242" y="78" width="716" height="222" rx="34" fill="url(#panel)"/>
+    <rect x="268" y="104" width="664" height="170" rx="28" fill="#fff8fc" opacity="0.74"/>
   </g>
 
-  <text x="600" y="151" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" fill="url(#pink)">Malak Mahmoud Sobhy</text>
-  <text x="600" y="193" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#831843">Network &amp; Cybersecurity Student</text>
-  <text x="600" y="229" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#a21caf">GRC basics | SOC basics | IoT/OT security | Quantum curiosity</text>
+  <text x="600" y="157" text-anchor="middle" class="label" font-size="54" font-weight="850" fill="url(#titleGrad)">Malak Mahmoud Sobhy</text>
+  <text x="600" y="199" text-anchor="middle" class="label" font-size="24" font-weight="700" fill="#831843">Network &amp; Cybersecurity Student</text>
+  <text x="600" y="235" text-anchor="middle" class="label" font-size="18" font-weight="650" fill="#9d174d">Cybersecurity | GRC | SOC Basics | IoT/OT | Quantum Curiosity</text>
 
-  <g transform="translate(399 248)">
-    <rect x="0" y="0" width="128" height="38" rx="19" fill="url(#chip)"/>
-    <text x="64" y="25" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#be185d">fresh cyber</text>
-  </g>
-  <g transform="translate(538 248)">
-    <rect x="0" y="0" width="124" height="38" rx="19" fill="url(#chip)"/>
-    <text x="62" y="25" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#7c3aed">soft pink</text>
-  </g>
-  <g transform="translate(674 248)">
-    <rect x="0" y="0" width="130" height="38" rx="19" fill="url(#chip)"/>
-    <text x="65" y="25" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#be185d">learning mode</text>
+  <g transform="translate(118 130)" filter="url(#glow)">
+    <path d="M86 0 L156 28 V84 C156 132 126 166 86 184 C46 166 16 132 16 84 V28 L86 0 Z" fill="#fff7fb" stroke="#db2777" stroke-width="5"/>
+    <path d="M86 22 L132 40 V84 C132 116 114 140 86 155 C58 140 40 116 40 84 V40 L86 22 Z" fill="#ffd6ec" stroke="#ff69b4" stroke-width="3"/>
+    <rect x="62" y="82" width="48" height="44" rx="9" fill="#db2777"/>
+    <path d="M70 82 V67 C70 48 102 48 102 67 V82" stroke="#831843" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="86" cy="104" r="6" fill="#fff7fb"/>
+    <path d="M86 110 V119" stroke="#fff7fb" stroke-width="4" stroke-linecap="round"/>
   </g>
 
-  <g opacity="0.9">
-    <path d="M87 189 C70 171, 96 145, 113 167 C130 145, 156 171, 139 189 L113 216 Z" fill="#ff69b4" opacity="0.28">
-      <animateTransform attributeName="transform" type="rotate" values="-6 113 180;6 113 180;-6 113 180" dur="4s" repeatCount="indefinite"/>
+  <g transform="translate(910 121)" stroke="#db2777" stroke-width="4" fill="none" filter="url(#glow)">
+    <g transform="translate(85 82)">
+      <ellipse rx="96" ry="30" opacity="0.88"/>
+      <ellipse rx="96" ry="30" transform="rotate(60)" opacity="0.72"/>
+      <ellipse rx="96" ry="30" transform="rotate(120)" opacity="0.72"/>
+      <circle r="14" fill="#ff69b4" stroke="#831843" stroke-width="3"/>
+      <circle cx="96" cy="0" r="7" fill="#ffffff" stroke="#db2777" stroke-width="3">
+        <animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" dur="7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <g opacity="0.86">
+    <text x="96" y="334" class="science" font-size="40" font-weight="700" fill="#be185d">E=mc<tspan dy="-12" font-size="24">2</tspan></text>
+    <text x="236" y="338" class="science" font-size="46" font-weight="700" fill="#db2777">&#8747;</text>
+    <text x="278" y="338" class="science" font-size="40" font-weight="700" fill="#be185d">f(x)dx</text>
+    <text x="830" y="338" class="science" font-size="44" font-weight="700" fill="#be185d">&#960;</text>
+    <text x="878" y="338" class="science" font-size="42" font-weight="700" fill="#db2777">&#8721;</text>
+    <text x="930" y="338" class="science" font-size="39" font-weight="700" fill="#9333ea">&#968;</text>
+    <text x="982" y="338" class="science" font-size="38" font-weight="700" fill="#be185d">&#955;</text>
+  </g>
+
+  <g opacity="0.72" stroke="#ff69b4" stroke-width="4" fill="none" stroke-linecap="round">
+    <path d="M400 318 C438 284, 476 352, 514 318 C552 284, 590 352, 628 318 C666 284, 704 352, 742 318 C780 284, 818 352, 856 318"/>
+    <animate attributeName="opacity" values="0.45;0.9;0.45" dur="3s" repeatCount="indefinite"/>
+  </g>
+
+  <g opacity="0.78" fill="#db2777">
+    <path d="M1052 57 L1062 81 L1087 91 L1062 101 L1052 126 L1042 101 L1017 91 L1042 81 Z">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.3s" repeatCount="indefinite"/>
     </path>
-    <path d="M1080 222 C1063 204, 1089 178, 1106 200 C1123 178, 1149 204, 1132 222 L1106 249 Z" fill="#a855f7" opacity="0.22">
-      <animateTransform attributeName="transform" type="rotate" values="5 1106 213;-5 1106 213;5 1106 213" dur="4.6s" repeatCount="indefinite"/>
+    <path d="M164 55 L171 73 L190 80 L171 87 L164 106 L157 87 L138 80 L157 73 Z">
+      <animate attributeName="opacity" values="1;0.45;1" dur="2.8s" repeatCount="indefinite"/>
     </path>
   </g>
 </svg>
