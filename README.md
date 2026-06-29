@@ -8,9 +8,7 @@
 
 <br />
 
-<a href="https://github.com/malllaaakkkk"><img src="https://komarev.com/ghpvc/?username=malllaaakkkk&style=for-the-badge&color=ff69b4" alt="Profile views" /></a>
-<a href="https://www.linkedin.com/in/malak-sobhy-98a206337/"><img src="https://img.shields.io/badge/LinkedIn-Malak%20Sobhy-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mahmoodmalak502@gmail.com"><img src="https://img.shields.io/badge/Email-mahmoodmalak502%40gmail.com-ff85c8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/malllaaakkkk"><img src="https://komarev.com/ghpvc/?username=malllaaakkkk&style=for-the-badge&color=ff69b4" alt="Profile views" /></a> <a href="https://www.linkedin.com/in/malak-sobhy-98a206337/"><img src="https://img.shields.io/badge/LinkedIn-Malak%20Sobhy-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:mahmoodmalak502@gmail.com"><img src="https://img.shields.io/badge/Email-mahmoodmalak502%40gmail.com-ff85c8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -18,9 +16,13 @@
 
 ## Intro
 
-I am a Network and Cybersecurity student at ElSewedy University of Technology. I am building my skills step by step in cybersecurity, networks, GRC, SOC basics, and IoT/OT security.
+Hi, I'm **Malak Sobhy**, a Network and Cybersecurity student at ElSewedy University of Technology.
 
-I like learning how real systems work, how they can break, and how security helps protect them. I am also curious about quantum computing, mathematics, and physics, especially when science meets technology.
+I'm passionate about building secure systems, understanding how technology works, and solving real-world problems through cybersecurity.
+
+My goal is to build strong foundations in **Cybersecurity, Networks, GRC, SOC, and OT/IoT Security** while combining technology with leadership, sustainability, and real-world impact.
+
+I believe success isn't measured only by personal achievements. To me, real success is creating solutions that help people, strengthen communities, and leave a positive impact.
 
 <table>
 <tr>
@@ -28,22 +30,22 @@ I like learning how real systems work, how they can break, and how security help
 
 ### Learning Now
 
-- Network defense fundamentals
-- Linux basics and security tools
-- GRC, risk assessment, and security policies
-- SOC basics and alert analysis
-- Secure coding principles
+* Network Security & Defense
+* Linux & Security Tools
+* GRC, Risk Assessment & Compliance
+* SOC Fundamentals & Threat Detection
+* Secure Coding & System Hardening
 
 </td>
 <td width="50%" valign="top">
 
 ### Favorite Areas
 
-- Cybersecurity and networks
-- IoT/OT security
-- Industrial networks
-- Quantum computing
-- Mathematics and physics
+* Cybersecurity & Network Security
+* GRC & Security Governance
+* OT/IoT & Industrial Security
+* Smart Cities & Emerging Technologies
+* Quantum Computing, Mathematics & Physics
 
 </td>
 </tr>
@@ -60,30 +62,39 @@ I like learning how real systems work, how they can break, and how security help
 
 <img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
+## My Vision
+
+I believe cybersecurity is about more than protecting systems—it's about protecting people, businesses, and communities.
+
+I aspire to build secure, practical, and meaningful solutions while continuously learning, sharing knowledge, and creating technology that leaves a positive impact.
+
+<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
+
 ## Experience
 
 ### Cybersecurity Trainee - MCV, Manufacturing Commercial Vehicles
 
 **Jun 2025 - Aug 2025**
 
-- Learned about cybersecurity fundamentals, industrial networks, and OT/IT integration.
-- Joined GRC sessions related to risk management, compliance, and security policies.
-- Took part in discussions about security awareness and risk assessment.
+* Explored cybersecurity in a real industrial environment.
+* Learned about OT/IT integration, industrial networks, and enterprise security.
+* Worked on GRC concepts including risk management, compliance, security policies, and security awareness.
+* Practiced identifying risks, understanding security controls, and thinking from a security analyst's perspective.
 
 <img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
 ## Projects
 
-### Smart Waste Management Project
+### LUXORA - Smart Waste Management System
 
-Student project team lead for an IoT-based waste management idea focused on collecting and monitoring sensor data.
+AI and IoT-based Smart Waste Management System focused on sustainability, automation, and real-time monitoring.
 
-**What I worked on:**
+**My Contributions**
 
-- Planning system workflows
-- Thinking about dashboard and data visibility ideas
-- Supporting security, sustainability, and scalability considerations
-- Coordinating with team members
+* Led and coordinated team activities.
+* Planned system workflow and project structure.
+* Contributed to dashboard and monitoring concepts.
+* Focused on cybersecurity, scalability, sustainability, and practical implementation.
 
 <img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
@@ -125,11 +136,12 @@ Student project team lead for an IoT-based waste management idea focused on coll
 
 <img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
-## Activities
+## Leadership & Activities
 
-- Vice Head, Campus Committee - Higher Council, SUT
-- Vice Head, Community Service Committee - Student Union
-- Head of HR Committee - IEEE Student Branch at SUTech
+* Vice Head, Campus Committee — Higher Council, SUT
+* Vice Head, Community Service Committee — Student Union
+* Head of HR Committee — IEEE Student Branch at SUTech
+* Passionate about leadership, teamwork, volunteering, and community impact.
 
 <img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
@@ -137,10 +149,13 @@ Student project team lead for an IoT-based waste management idea focused on coll
 
 ### Connect With Me
 
-<a href="https://www.linkedin.com/in/malak-sobhy-98a206337/"><img src="https://img.shields.io/badge/LinkedIn-Malak%20Sobhy-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mahmoodmalak502@gmail.com"><img src="https://img.shields.io/badge/Email-mahmoodmalak502%40gmail.com-ff85c8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/malak-sobhy-98a206337/"><img src="https://img.shields.io/badge/LinkedIn-Malak%20Sobhy-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:mahmoodmalak502@gmail.com"><img src="https://img.shields.io/badge/Email-mahmoodmalak502%40gmail.com-ff85c8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br />
+<br />
+
+> **"Keep learning. Build with purpose. Leave a positive impact."**
+
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6ea,45:ff69b4,100:c084fc&height=120&section=footer" width="100%" alt="Pink footer" />
