@@ -49,5 +49,6 @@ What I worked on:
 
 ## Contact
 
-- LinkedIn: Add your LinkedIn profile link
+- LinkedIn: https://www.linkedin.com/in/malak-sobhy-98a206337/
 - Email: mahmoodmalak502@gmail.com
+
