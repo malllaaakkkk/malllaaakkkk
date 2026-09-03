@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/malak-pink-banner.svg" width="100%" alt="Malak Mahmoud Sobhy - Cybersecurity & AI" />
+<img src="./assets/malak-pink-banner.svg" width="100%" alt="Malak Mahmoud Sobhy - Network and Cybersecurity Engineering Technology" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=FF4FA3&center=true&vCenter=true&width=900&lines=Cybersecurity+%26+AI+Student;Network+Security+%7C+Threat+Detection;AI+%7C+Cloud+%7C+IoT%2FOT+Security;Researcher+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=FF4FA3&center=true&vCenter=true&width=900&lines=Network+%26+Cybersecurity+Engineering+Technology;Cybersecurity+%7C+AI+%7C+Data+Science;Network+Security+%7C+GRC+%7C+Cloud;AI+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
 
 <br />
 
@@ -16,39 +16,39 @@
 
 ## Intro
 
-Hi, I'm **Malak Sobhy**, an Engineering Technology student specializing in **Network & Cybersecurity** at ElSewedy University of Technology.
+Hi, I'm **Malak Mahmoud Sobhy**, an Engineering Technology student specializing in **Network & Cybersecurity** at El Sewedy University of Technology — Polytechnic of Egypt.
 
-I'm passionate about building secure and intelligent systems by combining **Cybersecurity, AI, Networks, Cloud, and IoT** to solve real-world problems.
+I'm passionate about **Cybersecurity, AI, Data Science, Networks, Cloud Computing, and emerging technologies**. I enjoy building practical solutions, exploring how systems work, and applying technology to real-world problems.
 
-My experience includes network security, threat detection, network forensics, security monitoring, GRC, cloud technologies, AI-based solutions, and IoT systems. I've also worked on research involving **Zeek, Suricata, and the Elastic Stack** for network forensics and intrusion detection.
+My experience combines cybersecurity, industrial networks, GRC, cloud architecture, AI & data science, and hands-on project development. I'm also interested in research and the intersection between **AI and Cybersecurity**.
 
-Beyond technology, I enjoy leadership, teamwork, research, and building projects that create meaningful real-world impact.
+I believe in continuous learning, building with purpose, and using technology to create solutions with real-world impact.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Learning & Building
+### Currently Learning
 
-* Cybersecurity & Network Defense
-* AI & Machine Learning
-* Network Forensics & Threat Detection
-* Cloud Computing & Security
-* GRC, Risk Assessment & Security Policies
-* IoT/OT & Industrial Security
-* Secure Systems & Security Monitoring
+* AI & Data Science
+* Python & SQL
+* Statistics & Data Analysis
+* Machine Learning
+* Cloud Computing & Architecture
+* Network Security
+* GRC & Risk Management
 
 </td>
 <td width="50%" valign="top">
 
-### Interested In
+### Core Interests
 
+* Cybersecurity & Network Security
 * AI × Cybersecurity
-* Network Security & Digital Forensics
-* SOC & Threat Detection
+* Data Science & Machine Learning
 * Cloud Security
 * IoT/OT Security
-* Smart & Intelligent Systems
+* Industrial Networks
 * Quantum Computing, Mathematics & Physics
 
 </td>
@@ -58,10 +58,10 @@ Beyond technology, I enjoy leadership, teamwork, research, and building projects
 <div align="center">
 
 <img src="https://img.shields.io/badge/Cybersecurity-ff69b4?style=for-the-badge" alt="Cybersecurity" />
-<img src="https://img.shields.io/badge/AI-ff85c8?style=for-the-badge" alt="Artificial Intelligence" />
-<img src="https://img.shields.io/badge/Cloud-f472b6?style=for-the-badge" alt="Cloud Computing" />
-<img src="https://img.shields.io/badge/IoT%2FOT-db2777?style=for-the-badge" alt="IoT OT Security" />
-<img src="https://img.shields.io/badge/Research-be185d?style=for-the-badge" alt="Research" />
+<img src="https://img.shields.io/badge/AI-ff85c8?style=for-the-badge" alt="AI" />
+<img src="https://img.shields.io/badge/Data%20Science-f472b6?style=for-the-badge" alt="Data Science" />
+<img src="https://img.shields.io/badge/Cloud-db2777?style=for-the-badge" alt="Cloud" />
+<img src="https://img.shields.io/badge/IoT%2FOT-be185d?style=for-the-badge" alt="IoT OT" />
 
 </div>
 
@@ -69,126 +69,85 @@ Beyond technology, I enjoy leadership, teamwork, research, and building projects
 
 ## My Vision
 
-I believe cybersecurity is not only about protecting systems — it's about protecting **people, businesses, data, and the technologies we depend on**.
+I believe technology becomes truly valuable when it solves real problems.
 
-My goal is to combine cybersecurity with AI and emerging technologies to build solutions that are **secure, intelligent, practical, and impactful**.
+My goal is to combine **Cybersecurity, AI, Data Science, and Cloud technologies** to build secure, intelligent, and practical solutions that create meaningful impact.
 
-I'm continuously learning, experimenting, researching, and turning ideas into real projects.
+I'm continuously learning, experimenting, researching, and turning ideas into real-world projects.
 
 <img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
-## Experience & Training
+## Experience
 
-### Cybersecurity Trainee — MCV, Manufacturing Commercial Vehicles
+### Digital Egypt Pioneers Initiative (DEPI)
 
-**Jun 2025 - Aug 2025**
+**AI & Data Science Trainee | Jul 2026 – Present**
 
-* Explored cybersecurity within a real industrial environment.
-* Learned about OT/IT integration and industrial networks.
-* Worked with GRC concepts, risk management, compliance, and security policies.
-* Developed a stronger understanding of enterprise and industrial cybersecurity.
+**Ministry of Communications and Information Technology (MCIT)**
 
-### Cloud Architect Trainee — NTI
+* Selected for the fully funded Digital Egypt Pioneers Initiative (DEPI).
+* Pursuing the **AI & Data Science — Data Scientist Track**.
+* Developing practical skills through hands-on labs and project-based learning.
+* Working with Python, SQL, Statistics, Data Analysis, Data Visualization, and Machine Learning.
 
-**2026**
+---
 
-* Completed a **120-hour Cloud Architect training program**.
-* Covered cloud architecture, technical concepts, and professional skills.
+### National Telecommunication Institute (NTI) & ITIDA
+
+**Cloud Architect Trainee | Jul 2026**
+
+**120 Hours**
+
+* Completed a 120-hour Cloud Architect Summer Training.
 * Achieved a final score of **92.5%**.
+* Completed 90 hours of technical training and 30 hours of soft-skills training.
+* Developed foundational knowledge of Cloud Computing, Cloud Architecture, and modern IT infrastructure.
 
-### Digital Egypt Initiative — MCIT
+---
 
-**2026**
+### Manufacturing Commercial Vehicles (MCV)
 
-* Selected for and participated in an MCIT digital technology initiative.
-* Developed practical technical and professional skills through hands-on learning.
+**Cybersecurity Intern | Aug 2025 – Sep 2025**
 
-<img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
+**El Obour, Egypt**
 
-## Research
-
-### Network Forensics & Leakage-Safe Intrusion Detection
-
-**MIUCC 2026 — Paper ID: MIUCC2026-80**
-
-Research project focused on developing a reproducible two-track framework for **network forensics and intrusion detection**.
-
-**Technologies & Concepts**
-
-* Zeek
-* Suricata
-* Elastic Stack
-* Network Forensics
-* Intrusion Detection
-* Security Analytics
-* Leakage-Safe Machine Learning
-
-The paper was **accepted for MIUCC-2026**.
+* Gained practical exposure to Cybersecurity, Industrial Networks, OT/IT Integration, and Automation Environments.
+* Developed foundational knowledge of GRC, Risk Management, Compliance, Cybersecurity Policies, and Security Awareness.
+* Explored cybersecurity practices within a real industrial environment.
 
 <img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
-## Projects
+## Featured Project
 
 ### LUXORA — Smart Waste Management System
 
-AI and IoT-based smart waste management system designed to improve waste classification, monitoring, collection, and sustainability.
+**IoT-based Smart Waste Management Solution**
+
+**Jul 2025 – Jul 2026 | Team Project**
+
+LUXORA is an IoT-based smart waste management solution designed to improve waste monitoring, collection efficiency, and sustainability through intelligent technology.
 
 **My Contributions**
 
-* Led and coordinated project activities.
-* Worked on system planning and workflow.
-* Contributed to dashboard and monitoring concepts.
-* Explored AI-based waste classification using computer vision.
-* Worked with ESP32-CAM and ultrasonic sensors.
-* Focused on scalability, sustainability, and real-world implementation.
+* Collaborated with a multidisciplinary team for one year to develop the solution.
+* Contributed to waste monitoring and sensor data collection.
+* Worked on fill-level monitoring and dashboard visualization.
+* Contributed to route optimization and recycling incentive concepts.
+* Focused on practical implementation, scalability, sustainability, and real-world impact.
 
-**Technologies**
+**Technologies & Concepts**
 
-AI • Computer Vision • IoT • ESP32-CAM • Sensors • Dashboard
+AI • IoT • Computer Vision • ESP32-CAM • Sensors • Data Visualization • Smart Systems
 
----
+**Recognition**
 
-### VocaPlan — AI-Assisted Daily Planning
-
-An AI-assisted web application designed to help users organize their daily tasks and create more effective plans.
-
-**Technologies**
-
-Python • Flask • AI • Web Development
-
----
-
-### Network Forensics & Intrusion Detection Framework
-
-A cybersecurity research project combining network monitoring, intrusion detection, and security analytics.
-
-**Technologies**
-
-Zeek • Suricata • Elastic Stack • Python • Network Security
-
----
-
-### Flexible Attendance Management System
-
-A database-driven attendance management system designed to organize attendance records and simplify management workflows.
-
-**Technologies**
-
-Python • SQL • Database Systems
-
----
-
-### Bus Reservation System
-
-Object-oriented reservation system developed to manage bus routes, bookings, and passenger information.
-
-**Technologies**
-
-Java • OOP • Data Structures
+* Participated in **ITC-EGYPT 2026**.
+* Participated in **ARIIF**.
+* Received an **ITC-EGYPT 2026 Certificate of Appreciation**.
 
 <img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
-## Tech Stack
+## Technical Skills
 
 <div align="center">
 
@@ -201,46 +160,68 @@ Java • OOP • Data Structures
 
 <br />
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML-ff69b4?style=for-the-badge" alt="AI and Machine Learning" />
+<img src="https://img.shields.io/badge/Cybersecurity-ff69b4?style=for-the-badge" alt="Cybersecurity" />
 <img src="https://img.shields.io/badge/Network%20Security-ff85c8?style=for-the-badge" alt="Network Security" />
-<img src="https://img.shields.io/badge/Cloud%20Computing-f472b6?style=for-the-badge" alt="Cloud Computing" />
-<img src="https://img.shields.io/badge/GRC-db2777?style=for-the-badge" alt="GRC" />
-<img src="https://img.shields.io/badge/Threat%20Detection-be185d?style=for-the-badge" alt="Threat Detection" />
+<img src="https://img.shields.io/badge/GRC-f472b6?style=for-the-badge" alt="GRC" />
+<img src="https://img.shields.io/badge/SOC%20Fundamentals-db2777?style=for-the-badge" alt="SOC Fundamentals" />
+<img src="https://img.shields.io/badge/IoT%2FOT%20Security-be185d?style=for-the-badge" alt="IoT OT Security" />
 
 <br />
 
-<img src="https://img.shields.io/badge/Zeek-ff69b4?style=for-the-badge" alt="Zeek" />
-<img src="https://img.shields.io/badge/Suricata-ff85c8?style=for-the-badge" alt="Suricata" />
-<img src="https://img.shields.io/badge/Elastic%20Stack-f472b6?style=for-the-badge" alt="Elastic Stack" />
-<img src="https://img.shields.io/badge/Wazuh-db2777?style=for-the-badge" alt="Wazuh" />
-<img src="https://img.shields.io/badge/Burp%20Suite-be185d?style=for-the-badge" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/Metasploit-831843?style=for-the-badge" alt="Metasploit" />
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-ff69b4?style=for-the-badge" alt="AI and Data Science" />
+<img src="https://img.shields.io/badge/Machine%20Learning-ff85c8?style=for-the-badge" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Statistics-f472b6?style=for-the-badge" alt="Statistics" />
+<img src="https://img.shields.io/badge/Data%20Analysis-db2777?style=for-the-badge" alt="Data Analysis" />
+<img src="https://img.shields.io/badge/Data%20Visualization-be185d?style=for-the-badge" alt="Data Visualization" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Cloud%20Computing-ff69b4?style=for-the-badge" alt="Cloud Computing" />
+<img src="https://img.shields.io/badge/Cloud%20Architecture-ff85c8?style=for-the-badge" alt="Cloud Architecture" />
+<img src="https://img.shields.io/badge/AWS%20Fundamentals-f472b6?style=for-the-badge" alt="AWS Fundamentals" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Wazuh-ff69b4?style=for-the-badge" alt="Wazuh" />
+<img src="https://img.shields.io/badge/Splunk-ff85c8?style=for-the-badge" alt="Splunk" />
+<img src="https://img.shields.io/badge/Snort-f472b6?style=for-the-badge" alt="Snort" />
+<img src="https://img.shields.io/badge/Burp%20Suite-db2777?style=for-the-badge" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Metasploit-be185d?style=for-the-badge" alt="Metasploit" />
 
 </div>
 
 <img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
-## Certifications & Achievements
+## Achievements & Certifications
 
-* **NTI Cloud Architect — 120 Hours**
-* Final Score: **92.5%**
-* **MIUCC 2026 Research Paper — Accepted**
-* ITC-Egypt 2026 Participation
-* YLF Climate Change 3 — LUXORA
-* ARIIF — LUXORA
-* Digital Egypt / MCIT Initiative
-* Multiple cybersecurity, cloud, AI, and technical training experiences
+* 🏆 **Governorate-Level Award — ISEF Science and Engineering Fair**
+* ☁️ **Cloud Architect Summer Training — NTI & ITIDA** — 120 Hours — **92.5%**
+* 🤖 **Digital Egypt Pioneers Initiative (DEPI)** — Selected Participant — AI & Data Science Track
+* 🤖 **AI Ambassadors — Batch 2** — Engineers for Sustainable Egypt Foundation
+* 🏆 **ITC-EGYPT 2026 Certificate of Appreciation** — LUXORA
+* 🛡️ **MCV Cybersecurity Internship Certificate**
 
 <img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
 ## Leadership & Activities
 
-* Vice Head, Campus Committee — Higher Council, SUT
-* Vice Head, Community Service Committee — Student Union
-* Head of HR Committee — IEEE Student Branch at SUTech
-* Vice Head / Leadership roles across student activities and technical communities
-* Led and coordinated multidisciplinary project teams
-* Passionate about leadership, teamwork, volunteering, and community impact
+### Head of Human Resources Committee — IEEE SUTech Student Branch
+
+**Oct 2025 – Present**
+
+* Lead recruitment, onboarding, member engagement, and HR coordination within the student branch.
+
+### Vice Head, Campus Committee — SUT Student Union, Higher Council
+
+**Dec 2024 – Present**
+
+* Coordinate student concerns and support initiatives that improve the university experience.
+
+### Vice Head, Community Service Committee — SUT Student Union
+
+**Oct 2024 – Present**
+
+* Support community service initiatives and coordinate student participation.
 
 <img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Pink cyber science divider" />
 
@@ -261,7 +242,7 @@ Java • OOP • Data Structures
 
 <div align="center">
 
-### Let's Connect 💗
+### Connect With Me 💗
 
 <a href="https://www.linkedin.com/in/malak-sobhy-98a206337/"><img src="https://img.shields.io/badge/LinkedIn-Malak%20Sobhy-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:mahmoodmalak502@gmail.com"><img src="https://img.shields.io/badge/Email-mahmoodmalak502%40gmail.com-ff85c8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/malllaaakkkk"><img src="https://img.shields.io/badge/GitHub-malllaaakkkk-f472b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
