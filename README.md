@@ -1,108 +1,111 @@
 <div align="center">
 
-# Hi, I'm Malak Mahmoud Sobhy 👋
-
-### Network & Cybersecurity Engineering Technology Student
-
 <img src="./assets/malak-pink-banner.svg" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=FF4FA3&center=true&vCenter=true&width=800&lines=Network+%26+Cybersecurity+Engineering+Technology;Cybersecurity+%7C+Network+Security;AI+%26+Data+Science+%E2%80%94+Learning;Cloud+Computing+%E2%80%94+Training" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF4FA3&center=true&vCenter=true&width=800&lines=Network+%26+Cybersecurity+Engineering+Technology;Cybersecurity+%7C+Network+Security;AI+%26+Data+Science+%E2%80%94+Currently+Learning;Cloud+Computing+%E2%80%94+Training" />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=malllaaakkkk&label=Profile%20Views&color=FF4FA3&style=flat" />
 
 <a href="https://www.linkedin.com/in/malak-sobhy-98a206337/">
-  <img src="https://img.shields.io/badge/LinkedIn-FF4FA3?style=flat&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-FF4FA3?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mahmoodmalak502@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF4FA3?style=flat&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-FF4FA3?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+<br>
 
 <img src="./assets/pink-sparkle-divider.svg" width="100%" />
 
 ---
 
-## 🌸 About Me
+# 🌸 Intro
 
 Hi, I'm **Malak Mahmoud Sobhy**, an Engineering Technology student specializing in **Network & Cybersecurity** at **El Sewedy University of Technology**.
 
-My main interest is **Cybersecurity and Network Security**, with a focus on understanding security concepts, networks, threats, and practical security tools.
+My main interest is **Cybersecurity and Network Security**, with a focus on understanding networks, security concepts, threats, vulnerabilities, and practical security tools.
 
 I also have basic knowledge of **AI, Cloud Computing, IoT/OT Security, and GRC**, and I'm currently developing my **AI & Data Science** skills through the **Digital Egypt Pioneers Initiative (DEPI)**.
 
 I've gained practical exposure through cybersecurity training, cloud training, and hands-on projects such as **LUXORA Smart Waste Management System**.
 
-I'm interested in continuously improving my technical skills, gaining practical experience, and building useful solutions through technology.
+I'm always working on improving my technical skills, gaining practical experience, and learning how technology can be used to build more secure and useful solutions.
 
 ---
 
-## 🎯 My Vision
+# 🎯 My Vision
 
-> **To build strong practical skills in Cybersecurity and Network Security, while exploring how emerging technologies can support safer and smarter digital systems.**
+> **Building strong foundations in Cybersecurity and Network Security while continuously exploring new technologies and practical ways to solve real-world problems.**
 
 ---
 
-## 📚 Learning Now
+# 📚 Currently Learning
 
 - 🔐 Cybersecurity & Network Security
 - 🛡️ Security Tools & Threat Detection
 - 🐍 Python & SQL
-- 🤖 AI & Data Science — DEPI
+- 🤖 AI & Data Science
 - 📊 Statistics & Data Analysis
-- ☁️ Cloud Computing — Foundational Knowledge
+- 📈 Data Visualization
+- ☁️ Cloud Computing Fundamentals
+- 🧠 Machine Learning Fundamentals
 
 ---
 
-## 🌱 Basic Knowledge
+# 🌱 Basic Knowledge
 
 - Governance, Risk & Compliance (GRC)
 - Risk Management
 - IoT / OT Security
 - Industrial Networks
-- Machine Learning Fundamentals
 - Cloud Architecture Fundamentals
+- Machine Learning Fundamentals
 
 ---
 
 # 💼 Experience
 
-### 🤖 Digital Egypt Pioneers Initiative (DEPI)
+### 🤖 Digital Egypt Pioneers Initiative — DEPI
+
 **AI & Data Science Trainee — Data Scientist Track**  
 `Jul 2026 – Present`
 
-- Learning through hands-on labs and project-based activities.
-- Developing skills in Python, SQL, Statistics, and Data Analysis.
-- Learning Data Visualization and Machine Learning fundamentals.
-- Building a stronger foundation in AI & Data Science.
+- Learning AI & Data Science through hands-on labs and project-based activities.
+- Developing skills in **Python, SQL, Statistics, and Data Analysis**.
+- Learning **Data Visualization** and **Machine Learning fundamentals**.
+- Building a stronger foundation in data-driven problem solving.
 
 ---
 
 ### ☁️ NTI & ITIDA
+
 **Cloud Architect Trainee**  
 `Jul 2026`
 
 - Completed a **120-hour** Cloud Architect training program.
-- **92.5% final score**.
+- Achieved a final score of **92.5%**.
 - Covered Cloud Computing and Cloud Architecture fundamentals.
-- Gained foundational knowledge of modern IT infrastructure and cloud concepts.
+- Gained foundational knowledge of modern IT infrastructure and cloud technologies.
 
 ---
 
 ### 🔐 MCV
+
 **Cybersecurity Intern**  
 `Aug 2025 – Sep 2025`
 
-- Gained practical exposure to Cybersecurity concepts.
-- Learned about Industrial Networks and OT/IT integration.
-- Explored Automation Environments.
-- Gained basic exposure to GRC, Risk Management, Compliance, and Cybersecurity Policies.
-- Learned about Security Awareness and organizational security practices.
+- Gained practical exposure to cybersecurity concepts.
+- Learned about **Industrial Networks** and **OT/IT integration**.
+- Explored cybersecurity in automation environments.
+- Gained basic exposure to **GRC, Risk Management, Compliance, and Cybersecurity Policies**.
+- Learned about security awareness and organizational security practices.
 
 ---
 
@@ -112,77 +115,114 @@ I'm interested in continuously improving my technical skills, gaining practical 
 
 **Jul 2025 – Jul 2026**
 
-An IoT-based smart waste management solution designed to improve waste monitoring, collection, and recycling processes.
+LUXORA is an **IoT-based smart waste management solution** designed to improve waste monitoring, collection, and recycling processes.
 
-### My Contribution
+### 💡 About the Project
 
-- Worked as part of a multidisciplinary team throughout the project.
+- Smart waste monitoring system.
+- Fill-level monitoring using sensors.
+- AI-based waste classification.
+- Dashboard for monitoring and visualization.
+- Route optimization concepts.
+- Recycling incentive system.
+
+### 👩🏻‍💻 My Contribution
+
+- Worked as part of a multidisciplinary team for one year.
 - Contributed to waste monitoring and sensor data collection.
 - Worked with fill-level monitoring concepts.
 - Contributed to dashboard visualization.
-- Worked on route optimization concepts.
-- Contributed to recycling incentive ideas.
-- Collaborated with team members across hardware and software components.
+- Contributed to route optimization ideas.
+- Worked with the team on recycling incentive concepts.
+- Collaborated across hardware and software components.
 
-### Technologies & Concepts
+### 🧰 Technologies & Concepts
 
-`ESP32-CAM` `Ultrasonic Sensors` `IoT` `Python` `Dashboard` `Data Monitoring` `Route Optimization`
+`ESP32-CAM`  
+`Ultrasonic Sensors`  
+`IoT`  
+`Python`  
+`Data Monitoring`  
+`Dashboard`  
+`Route Optimization`
 
 ### 🏆 Recognition
 
 - **ITC-EGYPT 2026 — Certificate of Appreciation**
-- Participated in **ARIIF**
+- **ARIIF Participant**
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
 ### 🔐 Cybersecurity
-- Network Security
-- Cybersecurity Fundamentals
-- SOC Fundamentals
-- Vulnerability Management
-- Threat Detection Fundamentals
-- Secure Coding
-- IoT / OT Security — Basic Knowledge
-- GRC & Risk Management — Basic Knowledge
+
+<img src="https://img.shields.io/badge/Network%20Security-FF4FA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-FF4FA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOC%20Fundamentals-FF4FA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vulnerability%20Management-FF4FA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat%20Detection-FF4FA3?style=for-the-badge"/>
+
+### 🛡️ Security Tools
+
+<img src="https://img.shields.io/badge/Wazuh-0D0B12?style=for-the-badge&logoColor=FF4FA3"/>
+<img src="https://img.shields.io/badge/Splunk-0D0B12?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Snort-0D0B12?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-0D0B12?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-0D0B12?style=for-the-badge"/>
 
 ### 🌐 Networking
-- Network Fundamentals
-- Network Security
-- Industrial Networks
-- Network Simulation
 
-### 🧰 Security Tools
-- Wazuh
-- Splunk
-- Snort
-- Burp Suite
-- Metasploit
+<img src="https://img.shields.io/badge/Network%20Fundamentals-FF4FA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Industrial%20Networks-FF4FA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Network%20Simulation-FF4FA3?style=for-the-badge"/>
 
 ### 💻 Programming
-- Python
-- Java
-- SQL
-- Object-Oriented Programming
+
+<img src="https://img.shields.io/badge/Python-FF4FA3?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FF4FA3?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-FF4FA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-FF4FA3?style=for-the-badge"/>
 
 ### 🤖 AI & Data
-- Statistics
-- Data Analysis
-- Data Visualization
-- Machine Learning Fundamentals
-- AI & Data Science — Currently Learning
+
+<img src="https://img.shields.io/badge/Statistics-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning%20Fundamentals-A855F7?style=for-the-badge"/>
 
 ### ☁️ Cloud
-- Cloud Computing — Fundamentals
-- Cloud Architecture — Training
-- AWS Fundamentals
+
+<img src="https://img.shields.io/badge/Cloud%20Computing-FFB6D9?style=for-the-badge&logoColor=0D0B12"/>
+<img src="https://img.shields.io/badge/Cloud%20Architecture-FFB6D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20Fundamentals-FFB6D9?style=for-the-badge"/>
 
 ### 🖥️ Tools
-- Linux
-- Git
-- GitHub
-- VS Code
+
+<img src="https://img.shields.io/badge/Linux-0D0B12?style=for-the-badge&logo=linux&logoColor=FF4FA3"/>
+<img src="https://img.shields.io/badge/Git-0D0B12?style=for-the-badge&logo=git&logoColor=FF4FA3"/>
+<img src="https://img.shields.io/badge/GitHub-0D0B12?style=for-the-badge&logo=github&logoColor=FF4FA3"/>
+<img src="https://img.shields.io/badge/VS%20Code-0D0B12?style=for-the-badge&logo=visualstudiocode&logoColor=FF4FA3"/>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=malllaaakkkk&show_icons=true&hide_border=true&title_color=FF4FA3&icon_color=FF4FA3&text_color=FFFFFF&bg_color=0D0B12" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malllaaakkkk&layout=compact&hide_border=true&title_color=FF4FA3&text_color=FFFFFF&bg_color=0D0B12" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=malllaaakkkk&hide_border=true&background=0D0B12&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3&sideLabels=FFB6D9&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
+
+</div>
 
 ---
 
@@ -209,9 +249,9 @@ An IoT-based smart waste management solution designed to improve waste monitorin
 **Head of Human Resources Committee**  
 `Oct 2025 – Present`
 
-- Supporting HR activities and team coordination.
+- Supporting HR activities and member coordination.
 - Helping organize and manage student branch members.
-- Contributing to team planning and internal activities.
+- Contributing to internal team planning and activities.
 
 ---
 
@@ -235,26 +275,6 @@ An IoT-based smart waste management solution designed to improve waste monitorin
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=malllaaakkkk&show_icons=true&hide_border=true&title_color=FF4FA3&icon_color=FF4FA3&text_color=FFFFFF&bg_color=0D0B12" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malllaaakkkk&layout=compact&hide_border=true&title_color=FF4FA3&text_color=FFFFFF&bg_color=0D0B12" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=malllaaakkkk&hide_border=true&background=0D0B12&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3&sideLabels=FFB6D9&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" />
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -271,13 +291,15 @@ An IoT-based smart waste management solution designed to improve waste monitorin
 <img src="https://img.shields.io/badge/Email-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br><br>
+
+**Let's connect, learn, and build. 💗**
+
 </div>
 
 ---
 
 <div align="center">
-
-### 💗 Cybersecurity × Technology × Continuous Learning
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FA3&height=120&section=footer"/>
 
